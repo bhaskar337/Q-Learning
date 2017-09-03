@@ -1,7 +1,6 @@
 import random
 
 class Q_learner:
-
 	def __init__(self, R):
 		#reward
 		self.R = R
